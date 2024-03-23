@@ -72,7 +72,7 @@ const Features = () => {
                   </p>
                 </div>
 
-                {/* <div className="flex-1 flex-center">
+                <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
                     Titanium has one of the best strength-to-weight ratios of any metal, making these our {' '}
                     <span className="text-white">
@@ -80,7 +80,7 @@ const Features = () => {
                     </span>
                     You'll notice the difference the moment you pick one up.
                   </p>
-                </div> */}
+                </div>
 
 
               </div>
